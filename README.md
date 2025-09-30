@@ -38,12 +38,13 @@ Example:
 
 ```env
 JUPYTER_TOKEN=devtoken
-X_BEARER_TOKEN=AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA
-X_AUTH_TOKEN=5eXXXXXXXf3
-X_CT0_TOKEN=16a9d3XXXXXXXXXXXXXXXXXXaae7f
+CONSUMER_KEY=3nVuSoBZnx6U4vzUxf5w
+CONSUMER_SECRET=Bcs59EFbbsdF6Sl9Ng71smgStWEGwXXKSjYvPVt7qys
+X_OAUTH_TOKEN=5eXXXXXXXf3
+X_OAUTH_SECRET=16a9d3XXXXXXXXXXXXXXXXXXaae7f
 ```
 
-#### For help in getting this API token, scroll to the bottom of this page.
+#### For help in getting the X_OAUTH token and secret, scroll to the bottom of this page.
 ---
 
 ## ▶️ Running
