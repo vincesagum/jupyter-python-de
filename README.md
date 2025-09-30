@@ -74,6 +74,6 @@ docker-compose down
 --- 
 
 ## 🔑 Getting the X API Token
-1. Clone the [https://github.com/zedeus/nitter.git](nitter) repository.
-2. Follow the instructions in this [https://github.com/zedeus/nitter/wiki/Creating-session-tokens](page) to create session tokens.
+1. Clone the [nitter](https://github.com/zedeus/nitter.git) repository.
+2. Follow the instructions in this [page](https://github.com/zedeus/nitter/wiki/Creating-session-tokens) to create session tokens.
 3. Copy the values of `oauth_token` and `oauth_secret` from the generated `sessions.jsonl` file and paste them to the values of `X_OAUTH_TOKEN` and `X_OAUTH_SECRET` in the `.env` file, respectively.
